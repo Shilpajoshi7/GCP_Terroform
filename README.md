@@ -1,2 +1,5 @@
-# GCP_Terroform
-Here I will upload terraform related work of GCP
+# GCP Login link 
+console.cloud.google.com
+
+# Site Link
+https://registry.terraform.io/providers/hashicorp/google/latest/docs
