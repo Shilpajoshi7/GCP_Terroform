@@ -4,7 +4,8 @@ console.cloud.google.com
 # TF GCP Site Link
 https://registry.terraform.io/providers/hashicorp/google/latest/docs
 
-# Get Started with GCP 
+->Get Started with GCP 
+
 terraform {
   required_providers {
     google = {
